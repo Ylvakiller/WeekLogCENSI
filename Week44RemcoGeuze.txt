@@ -1,0 +1,27 @@
+Log of Remco Geuze
+Week: 44
+Moment of writing: 2-11-2015
+Log number: 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Following is my log of what I did during the last week, a word version of this log will also be available.
+
+During the beginning of last week I worked on dynamic treading, this would mean that we could adapt the priority of each sensor thread if a certain thread is ahead of the others.
+Due to the way that java works this is not really possible, I did a multitude of tests with different priorities on my personal pc (running windows) which showed that there is a large cap between the priorities of 4 and 5 in terms of performance, however between the other priorities there was little performance gain.
+For now I have put the dynamic tread scaling on a list of things we could add to the program if we end up having time to spare.
+I then worked on the cue system, the idea that each sensor thread would send a command to a cue and read data from a different cue.
+I started building this from scratch, however I have found a build in function in java which I am going to try to use.
+This build in function is easier to work with since it takes care of synchronisation and timing in between threads.
+However I have not yet succeeded in getting it to work smoothly, I expect that I will have that working on Teusday of this week.
+When that is done we can hook up the program that Junior is working on (which does the i2c communication) and then we can start working on implementing a Kalman filter.
+
+During the second part of last week I worked on 2 things, I have moved the circuitry that allows for multiple GY-80's to a separate board which allows me to just use a cable to connect to everything, making things far simpler.
+I also worked a lot on the Kalman filter, I helped Randy a lot with his Kalman filter which increased my personal understanding of the basic Kalman filter and I worked on the second assignment of the Kalman filter.
+I continued to read and attempt to understand the Kalman-Bucy filter. Unlike the basic Kalman filter that we are being taught in the sensor data lecture (which relies on a linear assumption) this filter works on a continuous time version that does not rely on linearity.
+For now I do not yet know if this will be a good alternative so I will shift my focus on understanding the Kalman filter for now.
+
+
+~~~~~~~~~~~~~~~~
+What I think the rest of the group did:
+I worked together with Junior on getting the java compiler and runtime environment to the correct version in order to run the system. I helped him setup ssh access to the raspberry.
+We also did some work together into sensor communication although he has done the bulk of the work on this (all I did was show him a code example that I had found and he mainly worked from there), other than helping him fix some compile errors I did not work a lot on this code.
+I believe that Débora has mainly been working on understanding the Kalman filter so that we can apply it.
