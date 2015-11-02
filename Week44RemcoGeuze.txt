@@ -25,3 +25,10 @@ What I think the rest of the group did:
 I worked together with Junior on getting the java compiler and runtime environment to the correct version in order to run the system. I helped him setup ssh access to the raspberry.
 We also did some work together into sensor communication although he has done the bulk of the work on this (all I did was show him a code example that I had found and he mainly worked from there), other than helping him fix some compile errors I did not work a lot on this code.
 I believe that Débora has mainly been working on understanding the Kalman filter so that we can apply it.
+
+~~~~~~~~~~~~~~~~
+The word version of this log will be send to Bryan Williams.
+The word version will be uploaded to blackboard.(file exchange of this group until we have a different location)
+Both the word and the txt versions will be available on github:
+https://github.com/Ylvakiller/WeekLogCENSI
+This github will hold all the weekly logs
