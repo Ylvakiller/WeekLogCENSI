@@ -1,0 +1,23 @@
+Log of Remco Geuze
+Week: 45
+Moment of writing: 9-11-2015
+Log number: 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Following is my log of what I did during the last week, a word version of this log will also be available.
+
+I have been ill this week, I have only been able to do work on Tuesday morning and on Friday.
+On Tuesday morning I worked on my understanding of the Kalman filter before leaving due to being sick. On Friday most of my illness was over and I continued work, I looked at the code that Junior mentioned, however it soon became clear that the code he had written was for the accelerometer and not for the gyroscope, we already had working code for the accelerometer. On Friday I have not seen either Junior or Débora so I could not ask what they had done during the last week, I look forward to reading their logs and talking to them tomorrow (Monday the 10th of November) and seeing what they have done during the last week.
+
+During the coming week I will spend 2 afternoons and 1 morning on Groningen, this will continue until December. I will compensate the loss in work by coming in every day from before 9 till after 5. It might be that this will end earlier, in which case you will be able to read that in the corresponding weekly log
+
+~~~~~~~~~~~~~~~~
+What I think the rest of the group did:
+I do not know what the rest of the group did, due to my illness I have not seen what they have done, the contact I had with Junior via facebook chat suggested that he had worked on and finished the code to get gyroscope data.
+However when looking at the code on Friday I found something else, it might well be that the code that I saw is not the code he was talking about, this I will find out on Monday
+
+~~~~~~~~~~~~~~~~
+The word version of this log will be send to Bryan Williams.
+The word version will be uploaded to blackboard.(file exchange of this group until we have a different location)
+Both the word and the txt versions will be available on github:
+https://github.com/Ylvakiller/WeekLogCENSI
+This github will hold all the weekly logs
