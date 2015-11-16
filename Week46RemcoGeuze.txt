@@ -1,0 +1,30 @@
+Log of Remco Geuze
+Week: 46
+Moment of writing: 16-11-2015
+Log number: 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Following is my log of what I did during the last week, a word version of this log will also be available.
+
+The last week I worked on converting the kalman fusion filter from the mathematics to java code. 
+In order to test the filter I took the data the from the second kalman filter assignment.
+The java program can read in this data and visualise it with graphs (I have never done graphs before in java)
+The program allows you to turn graphs on or off based on user input and will allow visualisation of the filtered data.
+I am currently building the filter itself, I estimate that this is around 60-70 % done.
+
+~~~~~~~~~~~~~~~~
+What I think the rest of the group did:
+
+Here we run into a bit of a problem,
+I have not been in on Theusday afternoon, Wednesday morning and Friday morning due to lectures in Groningen.
+It might be that my other group members where in during those moments.
+However during all the other moments in the week I have seen my group mates once, and that was only for half a minute, they came in, dropped there bags.
+I grabbed something to drink and by then they walked out again because they had a meeting.
+
+I am not confident that my group members have done anything productive in the last 2 weeks.
+
+~~~~~~~~~~~~~~~~
+The word version of this log will be send to Bryan Williams.
+The word version will be uploaded to blackboard.(file exchange of this group until we have a different location)
+Both the word and the txt versions will be available on github:
+https://github.com/Ylvakiller/WeekLogCENSI
+This github will hold all the weekly logs
