@@ -1,7 +1,7 @@
 Log of Remco Geuze
 Week: 47
 Moment of writing: 23-11-2015
-Log number: 3
+Log number: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Following is my log of what I did during the last week, a word version of this log will also be available.
 This log is what I did in terms of project work.
@@ -10,18 +10,18 @@ Last week I got the Kalman Fushion Filter assignment working in java,
 the way it is made right now will allow me to copy the code to a threaded setup.
 During the week I spend quite some time on the multi threaded backend. I have problems with the communication between threads however.
 I have thought of ways of solving this however those methods will use things that I have not done yet in java so they take longer than usual.
-I looked into how the coveriance matrices are defined, however I do not have a good understanding as of this morning.
+I looked into how the covariance matrices are defined, however I do not have a good understanding as of this morning.
 I am hoping that Débora will be able to explain where they come from and how we can define them using experiments.
-I made a new datastructure which I have tested aswell for the multi threaded setup.
-We had a group meeting on Wednesday afternoon, during this meeting it was decided to seperate the grading for this project.
+I made a new datastructure which I have tested as well for the multi threaded setup.
+We had a group meeting on Wednesday afternoon, during this meeting it was decided to separate the grading for this project.
 The grading would be individual in 2 parts:
 Everything before that Wednesday.
 Everything from that Wednesday till the end of the project.
-During this meeting we also agreed on a different scedule.
-This is a scedule which was created during the supervisor meeting on the Monday of 16th of November.
+During this meeting we also agreed on a different schedule.
+This is a schedule which was created during the supervisor meeting on the Monday of 16th of November.
 During this meeting only I and Bryan Williams where present.
-The scedule we came up with should be doable with 2 people working, (or 1 person working really activly).
-The scedule redifines the goal of the project, the new goal does not focus on viasualising but does focus on documenting.
+The schedule we came up with should be doable with 2 people working, (or 1 person working really actively).
+The schedule redefines the goal of the project, the new goal does not focus on visualising but does focus on documenting.
 During this meeting we also came up with the idea of me giving a pcb design workshop for my 2 group mates.
 I will need to look into this however, I am using an old version of ultiboard, this software is not supported anymore.
 What would be best is to work with Eagle, seeing as how the hanze will soon have licenses for this. 
