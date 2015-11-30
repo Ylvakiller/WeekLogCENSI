@@ -9,7 +9,7 @@ This log is what I did in terms of project work.
 During last week I programmed the multi threaded version of the kalman fusion filter,
 this includes communicating between threads. 
 During the second part of the week I worked with Junior to combine our two sets of code. (see the next section for what he made)
-I then added quite a few cpu optimisation methods which will be documented in detail in the DHF.
+I then added quite a few cpu optimization methods which will be documented in detail in the DHF.
 I spend Thursday and Friday morning on my physics class in Groningen.
 ~~~~~~~~~~~~~~~~
 What I think the rest of the group did:
