@@ -1,0 +1,25 @@
+Log of Remco Geuze
+Week: 48
+Moment of writing: 30-11-2015
+Log number: 5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Following is my log of what I did during the last week, a word version of this log will also be available.
+This log is what I did in terms of project work.
+
+During last week I programmed the multi threaded version of the kalman fusion filter,
+this includes communicating between threads. 
+During the second part of the week I worked with Junior to combine our two sets of code. (see the next section for what he made)
+I then added quite a few cpu optimisation methods which will be documented in detail in the DHF.
+I spend Thursday and Friday morning on my physics class in Groningen.
+~~~~~~~~~~~~~~~~
+What I think the rest of the group did:
+
+Junior has been working on communication to the sensors, on Wednesday and Thursday we worked together into combining the two sets of code.
+This was finished on Thursday. 
+Debora has been working on a FMEA and looked into the covariance matrices.
+~~~~~~~~~~~~~~~~
+The word version of this log will be send to Bryan Williams.
+The word version will be uploaded to blackboard.(file exchange of this group until we have a different location)
+Both the word and the txt versions will be available on github:
+https://github.com/Ylvakiller/WeekLogCENSI
+This github will hold all the weekly logs
