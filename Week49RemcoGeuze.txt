@@ -1,0 +1,29 @@
+Log of Remco Geuze
+Week: 49
+Moment of writing: 07-12-2015
+Log number: 6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Following is my log of what I did during the last week, a word version of this log will also be available.
+Last week I delved into EAGLE, figured out how to work with it and prepare everything for a short workshop for our project group.
+In order to do this I needed to make a new eagle library with our component and design our component.
+Seeing as how I have not a lot of experience with the EAGLE software this took some time.
+I also had a look into what kind of data the sensors send back and wrote a document about that.
+I started writing a document on how we should configure the PCB (which resistors we need)
+However in order to finish this conclusively I need to write a program that goes through 80 combinations of 4 numbers and then
+finds the maximum amount of different combinations we can have without those 4 numbers interfering. 
+I gave a short workshop (Roughly 1-1.5 hours) in designing a pcb, 
+in which the group as a whole designed the pcb. 
+However due to a what seemed to be a problem with the component I made ,
+but is instead something we did not know about in eagle I had to redesign the board today (Monday 07-12-2015)
+~~~~~~~~~~~~~~~~
+What I think the rest of the group did:
+According to project meeting we had last week Débora should be done with determining a test procedure for calculating the covariance matrices.
+I have however not been able to verify that.
+Junior looked into gnuplot in order to do basic visualisation.
+Both group members where active during the designing workshop in pcb design.
+~~~~~~~~~~~~~~~~
+The word version of this log will be send to Bryan Williams.
+The word version will be uploaded to blackboard.(file exchange of this group until we have a different location)
+Both the word and the txt versions will be available on github:
+https://github.com/Ylvakiller/WeekLogCENSI
+This github will hold all the weekly logs
