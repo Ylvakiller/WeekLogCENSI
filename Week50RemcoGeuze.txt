@@ -1,0 +1,24 @@
+Log of Remco Geuze
+Week: 50
+Moment of writing: 14-12-2015
+Log number: 7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Following is my log of what I did during the last week, a word version of this log will also be available.
+Last week I redesigned the PCB, this due to an error we made when originally making the pcb.
+I then tried printing the PCB multiple times, however I could not get the concentration to the correct amount.
+After this I worked on documentation of the PCB and how we could configure them.
+I calculated all the 80 possibilities with a simple java program which is added to the github (a jar will be supplied in the usb in the DHF at the end as well)
+From those 80 possibilities I calculated the addresses that did not conflict with other addresses.
+I have found 20 of these, which is plenty for our project.
+I wrote documentation on these addresses as well which is in the DHF.
+Other than this I worked a lot on my Physics course in Groningen and on non Censi assignments.
+~~~~~~~~~~~~~~~~
+What I think the rest of the group did:
+Junior has spent more time famailirising himself with Open GL in gnuplot.
+Débora has been working on understanding the covariance matrices.
+~~~~~~~~~~~~~~~~
+The word version of this log will be send to Bryan Williams.
+The word version will be uploaded to blackboard.(file exchange of this group until we have a different location)
+Both the word and the txt versions will be available on github:
+https://github.com/Ylvakiller/WeekLogCENSI
+This github will hold all the weekly logs
