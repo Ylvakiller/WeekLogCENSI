@@ -1,0 +1,70 @@
+Log of Remco Geuze
+Week: 51
+Moment of writing: 04-01-2016
+Log number: 8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Following is my log of what I did during the last week before the Christmas break, a word version of this log will also be available.
+In the week before the holiday I made the pcb with the correct amount of concentrations and attempted soldering on them.
+This was to difficult for me to do using the tools at HIT.
+I therefore decided to order the pcb from seeedstudio. This will make soldering easier.
+I made a form with all the finances on it for our project. I started working on the final report and transfer reports.
+for these I mainly worked on suggestions for a next group along with the explanation of the things I did manage to do during this project.
+I did some programming for the interface however I do not have that working as I want it.
+
+I also had a long supervisor meeting with Bryan on Friday which will be discussed in the next section.
+~~~~~~~~~~~~~~~~
+What I think the rest of the group did:
+I have not seen Junior in in that complete week.
+Debora has been in. During the project supervisor meeting on week 50 she was once again asked to write a document about covariance matrices.
+The main part of this document would be a procedure we could use in order to obtain said matrices for our project.
+On Wednesday (the day she was in) I was not in due to locking myself out and having to travel to groningen to get the spare key.
+On that day she messaged me asking 
+"
+	I'm following this paper to calculate the cov matrix.. 
+	but it seems pretty complicated.. 
+	and I was reading the KF code and it's way more simple. 
+	so I don't know what I should do. 
+	I mean, I can kind of explain the code into a documentation or I can keep on what I'm doing based on this paper.
+	
+	I mean
+	I know that what Bryan wants is to give me things to do
+	but I don't know if it should be based on our code
+	or just in general
+"
+I explained to her we needed a procedure to follow in order to get these matrices.
+She said:
+"
+	yeah.. I see
+	
+	okay
+	it's funny, because in the papers I read they just "skip" this part, give a bunch of equations and say that it was found experimentally hahah
+	but okay.. I'll keep on it
+"
+
+My reply to that was:
+"
+	yeah thats the problem
+	I think the idea is that one is a noise covariance for the gyro and one for the accelerometer
+	So they depend on the behaviour of your sensors
+	And therefore you have to run tests
+	I mean what we can try is run a test where we know what the outcome would be
+	And then keep on trying numbers
+	But doing that at random will cost months
+	So there probably is a procedure to follow instead
+	
+	The previous group got decent matrices
+	I don't know if they said how they got those
+"
+
+This was the only contact I had with her. I did not see her during the rest of that week.
+
+We had a supervisor meeting with Bryan sceduled on Friday.
+During which only Bryan and me where present.
+
+The log of this meeting is in my personal log. If you want to read what happened during this meeting contact me.
+~~~~~~~~~~~~~~~~
+The word version of this log will be send to Bryan Williams.
+The word version will be uploaded to blackboard.(file exchange of this group until we have a different location)
+Both the word and the txt versions will be available on github:
+https://github.com/Ylvakiller/WeekLogCENSI
+This github will hold all the weekly logs
