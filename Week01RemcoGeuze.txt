@@ -1,0 +1,19 @@
+Log of Remco Geuze
+Week: 51
+Moment of writing: 04-01-2016
+Log number: 8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Following is a log of what happend in week 1.
+During most of week 1 the building was closed.
+On friday the pcb had arrived and I started soldering the first pcb.
+During the off days I worked hard on my Physics assignment for the RUG.
+
+~~~~~~~~~~~~~~~~
+What I think the rest of the group did:
+Nothing
+~~~~~~~~~~~~~~~~
+The word version of this log will be send to Bryan Williams.
+The word version will be uploaded to blackboard.(file exchange of this group until we have a different location)
+Both the word and the txt versions will be available on github:
+https://github.com/Ylvakiller/WeekLogCENSI
+This github will hold all the weekly logs
